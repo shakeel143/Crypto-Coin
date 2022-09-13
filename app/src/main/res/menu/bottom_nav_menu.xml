@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_curriencies"
+        android:icon="@drawable/currency_ic"
+        android:title="@string/crypto_currencies" />
+
+    <item
+        android:id="@+id/navigation_calculator"
+        android:icon="@drawable/calcu_ic"
+        android:title="@string/phantom_calculator" />
+
+
+</menu>
